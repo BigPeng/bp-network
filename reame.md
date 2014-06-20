@@ -1,0 +1,1 @@
+一个BP神经网络的实现，详情请参考http://www.cnblogs.com/fengfenggirl/p/bp_network.html
